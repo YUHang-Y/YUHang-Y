@@ -1,4 +1,7 @@
-# 🛡️ Hi, I'm J.YuHang - Cyber Security Explorer
+以下是为您量身定制的GitHub个人主页美化方案（Markdown格式），融合网络安全元素与Python技术特色：
+
+
+# 🛡️ Hi, I'm [你的名字] - Cyber Security Explorer
 
 > **高二学生 | Python代码守护者 | CTF挑战者**  
 > *"Encrypting the future, one line of Python at a time."*
@@ -11,18 +14,6 @@
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/SQL_注入防御-0000FF?style=for-the-badge&logo=sqlite&logoColor=white)
 
-
-# 典型安全工具开发片段
-import scapy.all as scapy
-
-def packet_sniffer(interface):
-    print(f"[*] 嗅探器在 {interface} 上启动...")
-    scapy.sniff(iface=interface, store=False, prn=analyze_packet)
-
-def analyze_packet(packet):
-    if packet.haslayer(scapy.HTTPRequest):
-        url = packet[scapy.HTTPRequest].Host.decode()
-        print(f"[!] 检测到HTTP请求 -> {url}")
 
 
 ---
@@ -37,7 +28,7 @@ def analyze_packet(packet):
 ---
 
 ## 📡 我的安全探索轨迹
-
+```mermaid
 graph LR
     A[Python基础] --> B[Web渗透测试]
     A --> C[网络协议分析]
@@ -45,7 +36,7 @@ graph LR
     C --> D
     D --> E[漏洞研究]
     D --> F[安全工具开发]
-
+```
 
 ---
 
@@ -65,5 +56,4 @@ graph LR
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=flat&logo=Hack%20The%20Box&logoColor=9FEF00)](你的HTB主页)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=TryHackMe&logoColor=88cc14)](你的THM主页)
 [![知乎](https://img.shields.io/badge/知乎-0084FF?style=flat&logo=zhihu&logoColor=white)](你的知乎主页)
-
-
+```
