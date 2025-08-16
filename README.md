@@ -1,16 +1,42 @@
-## Hi there 👋
+👋 欢迎访问我的GitHub主页！
+关于我
+嗨！我是[你的名字]，一名来自漳州的高二学生，目前在厦门就读。我对网络安全充满热情，喜欢探索和研究各种安全技术和挑战。我的目标是成为一名优秀的网络安全工程师，用技术守护数字世界！
 
-<!--
-**YUHang-Y/YUHang-Y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 所在地: 中国，福建厦门
+📚 身份: 高二学生
+🛡️ 兴趣: 网络安全、渗透测试、CTF挑战
+💻 编程语言: 擅长Python，熟悉Linux环境
+🎮 爱好: 玩策略游戏、射击游戏，偶尔追《鬼灭之刃》等动漫
+📧 联系方式: [你的邮箱或社交媒体]
 
-Here are some ideas to get you started:
+技能与技术
+以下是我目前掌握的一些技能和技术，正在不断学习和提升中！
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+编程: Python（网络脚本、自动化工具开发）
+系统: Linux（Kali Linux、常用命令、系统管理）
+网络安全: 基础渗透测试、DHCP饥饿攻击、ARP欺骗
+其他: Web开发基础、SQL
+
+未来项目计划
+
+📝 开发一个基于Python的网络安全工具，用于扫描和分析网络漏洞
+🔍 分享关于CTF比赛和网络安全学习的博客文章
+🛠️ 构建一个展示网络安全知识的个人博客网站
+🚀 参与开源项目，贡献代码并学习社区协作
+
+近期动态
+
+🏆 正在LeetCode和CTF平台上挑战算法与安全题目
+📖 学习《Web安全深度剖析》，深入理解网络攻防
+🎨 优化我的GitHub主页，添加更多个性化内容
+
+联系我
+欢迎与我交流网络安全、编程或任何有趣的话题！  
+
+📧 邮箱: [你的邮箱]  
+🐦 X: [你的X账号]  
+🌐 博客: [你的博客链接，留空待填]
+
+
+提示: 我的GitHub项目正在不断更新，欢迎Star⭐或Follow我的主页，一起见证我的成长！
