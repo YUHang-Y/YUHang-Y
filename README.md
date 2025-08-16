@@ -69,7 +69,7 @@ timeline
 
 ## 🌐 连接我
 
-[![SDN](https://img.shields.io/badge/SDN-软件定义网络-0066CC?style=flat&logo=openflow&logoColor=white)](https://blog.csdn.net/2301_82206160?type=blog)
+[![CSDN](https://img.shields.io/badge/CSDN-技术博客-FF0000?style=flat&logo=c&logoColor=white)](https://blog.csdn.net/2301_82206160?type=blog)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-挑战平台-9FEF00?style=flat&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/你的ID)
 [![LeetCode](https://img.shields.io/badge/LeetCode-算法训练-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/你的ID)
 [![GitHub](https://img.shields.io/badge/GitHub-代码仓库-181717?style=flat&logo=github&logoColor=white)](https://github.com/YUHang-Y)
