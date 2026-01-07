@@ -21,18 +21,19 @@
 
 </div>
 
-
+<!-- 技能雷达 -->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=dark&title_color=00FF41&text_color=c9d1d9&bg_color=0d1117"/>
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,docker,git,vscode&perline=6" />
 </p>
 
-<!-- 访客计数器 -->
+**网络安全工具：**
 <p align="center">
-  <img src="https://profile-counter.glitch.me/YOUR_USERNAME/count.svg" alt="访客统计"/>
+  <img src="https://skillicons.dev/icons?i=npm" alt="nmap"/>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="metasploit"/>
+  <!-- 自定义徽章 -->
+  <img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img alt="BurpSuite" src="https://img.shields.io/badge/BurpSuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
 </p>
-
-
 ---
 
 
