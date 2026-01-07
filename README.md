@@ -21,42 +21,18 @@
 
 </div>
 
----
 
-```json
-{
-  "排名": "持续进步中...",
-  "擅长领域": ["Web安全", "密码学", "逆向工程"],
-  "平台": ["HackTheBox", "CTFtime", "BugBounty"]
-}
-```
-
-### 📫 联系我
-
-<!-- 联系方式 -->
 <p align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-gray?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=dark&title_color=00FF41&text_color=c9d1d9&bg_color=0d1117"/>
 </p>
 
+<!-- 访客计数器 -->
+<p align="center">
+  <img src="https://profile-counter.glitch.me/YOUR_USERNAME/count.svg" alt="访客统计"/>
+</p>
+
+
 ---
 
-<div align="center">
-  
-<!-- 终端提示符 -->
-  <strong>
-    <samp>
-      root@github:~# echo "Stay Curious, Keep Hacking!"<br>
-      Stay Curious, Keep Hacking!
-    </samp>
-  </strong>
-  
-<!-- 动态分割线 -->
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/hr.gif" width="100%" height="30"/>
 
-</div>
-```
