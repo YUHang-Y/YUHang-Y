@@ -34,6 +34,21 @@
   <img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
   <img alt="BurpSuite" src="https://img.shields.io/badge/BurpSuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
 </p>
----
+
+
+<div align="center">
+  
+<!-- 终端提示符 -->
+  <strong>
+    <samp>
+      root@github:~# echo "Stay Curious, Keep Hacking!"<br>
+      Stay Curious, Keep Hacking!
+    </samp>
+  </strong>
+  
+<!-- 动态分割线 -->
+  <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/hr.gif" width="100%" height="30"/>
+
+</div>
 
 
