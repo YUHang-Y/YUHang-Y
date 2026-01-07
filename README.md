@@ -1,9 +1,3 @@
-太酷了！网络安全方向的极客风格，我给你准备了一套**赛博朋克+黑客终端**风格的美化方案，直接复制就能用！
-
----
-
-## 🚀 炫酷版 README.md 模板
-
 ```markdown
 <!-- GitHub README.md - 极客风格模板 -->
 
@@ -113,48 +107,4 @@ $ cat about.txt
 </div>
 ```
 
----
 
-## 🎨 **进阶美化技巧**
-
-### 1. **更换主题配色**
-修改所有 `00FF41`（经典终端绿）为你喜欢的颜色：
-- **赛博朋克粉**：`FF00FF`
-- **深海蓝**：`00FFFF`
-- **熔岩橙**：`FF4500`
-
-### 2. **添加动态黑客背景**（终极版）
-在顶部添加：
-```markdown
-<div align="center">
-  <img width="100%" src="https://media.giphy.com/media/IoP0uv8yNKTbu/giphy.gif"/>
-</div>
-```
-
-### 3. **技能雷达图**
-
-```markdown
-<p align="center">
-  <img src="https://radar.omaple.org/api?skills=Linux:90,Python:75,Web安全:65,逆向:50&title=技能雷达&theme=dark"/>
-</p>
-```
-
----
-
-## 📌 **使用步骤**
-
-1. **复制上面代码** 到你的 README.md
-2. **替换 `YOUR_USERNAME`** 为你的 GitHub 用户名
-3. **修改个人信息**（邮箱、Discord 等）
-4. **提交到仓库** 主页即可生效！
-
----
-
-### 💡 **额外建议**
-
-作为网络安全方向的学生，你还可以：
-- 在仓库里放你的 **CTF Writeup**
-- 分享 **漏洞挖掘笔记**
-- 搭建 **个人博客** 记录学习历程
-
-需要我再帮你定制某个具体部分（比如专门的CTF战绩展示板），或者生成配套的头图背景吗？
