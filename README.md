@@ -23,16 +23,40 @@
 
 ---
 
-### 🔥 关于我
+```json
+{
+  "排名": "持续进步中...",
+  "擅长领域": ["Web安全", "密码学", "逆向工程"],
+  "平台": ["HackTheBox", "CTFtime", "BugBounty"]
+}
+```
 
+### 📫 联系我
 
-$ whoami
-> 高二学生 | 网络安全方向
-$ pwd
-> /home/cyber-security-journey
-$ cat about.txt
+<!-- 联系方式 -->
+<p align="center">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-gray?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+</p>
 
-🔭 主攻方向：计算机网络 | 渗透测试 | 漏洞挖掘
-🌱 学习路线：OSCP > CTF > 实战项目
-⚡ 特性：0基础起步 | 持续学习 | 分享精神
-🎯 目标：成为一名白帽黑客
+---
+
+<div align="center">
+  
+<!-- 终端提示符 -->
+  <strong>
+    <samp>
+      root@github:~# echo "Stay Curious, Keep Hacking!"<br>
+      Stay Curious, Keep Hacking!
+    </samp>
+  </strong>
+  
+<!-- 动态分割线 -->
+  <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/hr.gif" width="100%" height="30"/>
+
+</div>
+```
